@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AdiLukman_Telp_WEB_Maps_Email"
